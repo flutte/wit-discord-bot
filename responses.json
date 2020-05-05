@@ -1,4 +1,3 @@
-//Feel free to customize those, although I would not advise to add other entities for now
 {
 	"greetings": [
 		"Hello!",
@@ -22,5 +21,12 @@
 		"Goodbye...",
 		"Farewell!",
 		"Good bye!"
+	],
+
+	"rick_may": [
+		"Farewell, Rick May :(",
+		"'You were good son, real good, maybe even the best...'",
+		"R.I.P Rick May",
+		"F"
 	]
 }
