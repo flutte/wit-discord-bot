@@ -1,0 +1,26 @@
+//Feel free to customize those, although I would not advise to add other entities for now
+{
+	"greetings": [
+		"Hello!",
+		"Hi!",
+		"Howdy!",
+		"Mornin'!",
+		"Hey there!",
+		"Hey, Vsauce, Michael here",
+		"R.I.P Rick May",
+		"Good Morning!",
+		"Hi, how are ya? :D",
+		"Nice to see you again!"
+	],
+
+	"bye": [
+		"Cya!",
+		"See ya soon!",
+		"Bye!",
+		"Bye :(",
+		"B.Y.E (see urbandictionary)",
+		"Goodbye...",
+		"Farewell!",
+		"Good bye!"
+	]
+}
